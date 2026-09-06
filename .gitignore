@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pyc
 node_modules/data/candidates/
+data/candidates/
